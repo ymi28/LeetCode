@@ -3,7 +3,11 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Set;
+
 /**
+ * 
+ * @author ymi28
+ * 
  * https://leetcode.com/problems/word-ladder/
  *
  */
@@ -96,4 +100,8 @@ public class Problem127WordLadder {
 		System.out.println(solution.ladderLengthSingleEnd(beginWord, endWord, new HashSet<String>(wordDict)));
 		System.out.println(solution.ladderLengthTwoEnd(beginWord, endWord, new HashSet<String>(wordDict)));
 	}
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
