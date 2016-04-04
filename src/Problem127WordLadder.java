@@ -100,8 +100,4 @@ public class Problem127WordLadder {
 		System.out.println(solution.ladderLengthSingleEnd(beginWord, endWord, new HashSet<String>(wordDict)));
 		System.out.println(solution.ladderLengthTwoEnd(beginWord, endWord, new HashSet<String>(wordDict)));
 	}
-<<<<<<< Updated upstream
 }
-=======
-}
->>>>>>> Stashed changes
